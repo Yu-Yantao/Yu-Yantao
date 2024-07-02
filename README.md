@@ -5,14 +5,7 @@
 </p>
 
 <!-- Welcome -->
-<p style="text-align: center" >
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!"/>
-</p>
-
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!"/>
 </p>
-<p style="text-align: center">
-    <img style="display: block;margin: 0 auto;"
-         src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!"/>
-</p>
+
