@@ -7,5 +7,5 @@
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page+!"/>
 </p>
-<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username={anuraghazra}&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
+<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Yu-Yantao&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
 
