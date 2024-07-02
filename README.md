@@ -14,14 +14,17 @@
          src="https://github-readme-activity-graph.vercel.app/graph?username=Yu-Yantao&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph"/>
 </p>
 
-<!-- Most Used Language -->
+<!-- Most Used Language 
 <p align="center">
     <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Yu-Yantao&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true&hide=contribs" />
 
     <img align="center"
          src="https://github-readme-stats.vercel.app/api/top-langs?username=Yu-Yantao&theme=transparent&langs_count=6"/>
-</p>
-
+</p>-->
+<img align="center" width="400"
+     src="https://github-readme-stats.vercel.app/api?username=Yu-Yantao&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true&hide=contribs"/>
+<img align="center"
+     src="https://github-readme-stats.vercel.app/api/top-langs?username=Yu-Yantao&theme=transparent&langs_count=6"/>
 <!-- Tech Stack -->
 <p align="center">
     <a href="https://skillicons.dev">
