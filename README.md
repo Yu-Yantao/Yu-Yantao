@@ -23,6 +23,6 @@
 <!-- Tech Stack -->
 <p align="center">
     <a href="https://skillicons.dev">
-        <img align="center" src="https://skillicons.dev/icons?i=go,java,python,html,css,js,ts,nodejs,linux,notion&theme=light"/>
+        <img align="center" src="https://skillicons.dev/icons?i=go,java,python,nodejs,html,css,js,ts,vue,react&theme=light"/>
     </a>
 </p>
