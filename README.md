@@ -17,7 +17,7 @@
 <!-- Most Used Language -->
 <p align="center">
     <img align="center"
-         src="https://github-readme-stats.vercel.app/api/top-langs?username=Yu-Yantao&theme=transparent&hide_border=true&layout=compact&langs_count=6"/>
+         src="https://github-readme-stats.vercel.app/api/top-langs?username=Yu-Yantao&theme=transparent&hide_border=true&langs_count=6"/>
 </p>
 
 <!-- Tech Stack -->
