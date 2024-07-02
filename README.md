@@ -10,7 +10,7 @@
 
 <p align="center">
 <img align="center" width="400"
-     src="https://github-readme-stats.vercel.app/api?username=Yu-Yantao&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true&hide=contribs"/>
+     src="https://github-readme-stats.vercel.app/api?username=Yu-Yantao&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide=contribs"/>
 <img align="center"
      src="https://github-readme-stats.vercel.app/api/top-langs?username=Yu-Yantao&theme=transparent&langs_count=6&hide_border=true"/>
 </p>
