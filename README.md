@@ -25,6 +25,6 @@
 <!-- Tech Stack -->
 <p align="center">
     <a href="https://skillicons.dev">
-        <img align="center" src="[https://skillicons.dev/icons?i=go,java,python,nodejs,html,css,js,vue&theme=light](https://skillicons.dev/icons?i=py,fastapi,go,java,spring,ts,vue,docker,kubernetes,prometheus&theme=light)"/>
+        <img align="center" src="https://skillicons.dev/icons?i=py,fastapi,go,java,spring,ts,vue,docker,kubernetes,prometheus&theme=light"/>
     </a>
 </p>
